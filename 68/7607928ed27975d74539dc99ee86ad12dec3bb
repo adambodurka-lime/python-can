@@ -1,0 +1,24 @@
+can/interfaces/pcan/pcan.py
+  s_3bb67f54c16b2e::t_410e5f893ea91b 60,557-562
+test/test_pcan.py
+  s_3bb67f54c16b2e::t_0b7567dc123589 261-268,270-299
+  s_3bb67f54c16b2e::t_95e7e21b38c3ec 269
+doc/changelog.d/+pcan-bus-load-frames.fixed.rst
+  s_3bb67f54c16b2e::t_f10ec98cc64bb3 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "687607928ed27975d74539dc99ee86ad12dec3bb",
+  "prompts": {},
+  "sessions": {
+    "s_3bb67f54c16b2e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ce13f769-7974-4e77-8e25-9ae92e8717d4",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Adam Bodurka <adam.bodurka@li.me>"
+    }
+  }
+}
